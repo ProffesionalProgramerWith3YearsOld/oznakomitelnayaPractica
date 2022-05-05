@@ -1,0 +1,19 @@
+﻿<Window x:Class="OznakomitelnayaPraktika.Window7"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OznakomitelnayaPraktika"
+        mc:Ignorable="d"
+        Title="Window7" Height="206.4" Width="528.2">
+    <Grid>
+        <ComboBox x:Name="boxDepName" HorizontalAlignment="Left" Margin="181,89,0,0" VerticalAlignment="Top" Width="180" SelectionChanged="boxDepName_SelectionChanged"/>
+        <TextBox x:Name="boxManagName" HorizontalAlignment="Left" Height="23" Margin="181,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" TextChanged="boxManagName_TextChanged"/>
+        <Label Content="В каком оно отделе" HorizontalAlignment="Left" Margin="45,86,0,0" VerticalAlignment="Top"/>
+        <Label Content="Название Управления" HorizontalAlignment="Left" Margin="45,55,0,0" VerticalAlignment="Top"/>
+        <Button Content="Ok" HorizontalAlignment="Left" Margin="45,136,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Label x:Name="ManagNameFill" Content="Пустое поле" HorizontalAlignment="Left" Margin="362,55,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="DepNameFill" Content="Пустое поле" HorizontalAlignment="Left" Margin="362,86,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

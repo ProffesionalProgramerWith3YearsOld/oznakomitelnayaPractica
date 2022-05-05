@@ -1,0 +1,68 @@
+C:\Users\MyPC\source\repos\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\OznakomitelnayaPraktika.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\MainWindow.g.cs
+C:\Users\MyPC\source\repos\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\App.g.cs
+C:\Users\MyPC\source\repos\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\OznakomitelnayaPraktika_MarkupCompile.cache
+C:\Users\MyPC\source\repos\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\OznakomitelnayaPraktika_MarkupCompile.lref
+C:\Users\MyPC\source\repos\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\OznakomitelnayaPraktika.exe.config
+C:\Users\MyPC\source\repos\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\OznakomitelnayaPraktika.exe
+C:\Users\MyPC\source\repos\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\OznakomitelnayaPraktika.pdb
+C:\Users\MyPC\source\repos\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\MainWindow.baml
+C:\Users\MyPC\source\repos\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\OznakomitelnayaPraktika.g.resources
+C:\Users\MyPC\source\repos\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\OznakomitelnayaPraktika.Properties.Resources.resources
+C:\Users\MyPC\source\repos\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\OznakomitelnayaPraktika.csproj.GenerateResource.cache
+C:\Users\MyPC\source\repos\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\OznakomitelnayaPraktika.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\OznakomitelnayaPraktika.exe
+C:\Users\MyPC\source\repos\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\OznakomitelnayaPraktika.pdb
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\OznakomitelnayaPraktika.exe.config
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\OznakomitelnayaPraktika.exe
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\OznakomitelnayaPraktika.pdb
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\System.Buffers.dll
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\System.Memory.dll
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\System.Buffers.xml
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\System.Memory.xml
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\OznakomitelnayaPraktika.csproj.AssemblyReference.cache
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\MainWindow.g.cs
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\App.g.cs
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\OznakomitelnayaPraktika_Content.g.cs
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\OznakomitelnayaPraktika_MarkupCompile.cache
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\OznakomitelnayaPraktika_MarkupCompile.lref
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\MainWindow.baml
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\OznakomitelnayaPraktika.g.resources
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\OznakomitelnayaPraktika.Properties.Resources.resources
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\OznakomitelnayaPraktika.csproj.GenerateResource.cache
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\OznakomitelnayaPraktika.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\OznakomitelnayaPraktika.csproj.CopyComplete
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\OznakomitelnayaPraktika.exe
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\OznakomitelnayaPraktika.pdb
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\Window1.g.cs
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\Window1.baml
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\Window2.g.cs
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\Window2.baml
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\Window3.g.cs
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\Window3.baml
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\Window4.g.cs
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\Window4.baml
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\Window5.g.cs
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\Window5.baml
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\Window6.g.cs
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\Window7.g.cs
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\Window6.baml
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\Window7.baml
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\Window8.g.cs
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\Window8.baml
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\Window9.g.cs
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\Window9.baml
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\Window10.g.cs
+C:\Users\MyPC\Desktop\Ознакомительная практика\OznakomitelnayaPraktika\OznakomitelnayaPraktika\obj\Debug\Window10.baml
